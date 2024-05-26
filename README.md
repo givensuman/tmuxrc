@@ -17,7 +17,7 @@ git clone https://github.com/givensuman/tmuxrc
 
 ```shell
 cat tmuxrc/.tmux.conf >> ~/.tmux.conf
-cp tmuxrc/.tmux/plugins/* ~/.tmux/plugins
+mkdir -p ~/.tmux/plugins && cp tmuxrc/.tmux/plugins/* $_ -r
 ```
 
 #### Refresh your shell
