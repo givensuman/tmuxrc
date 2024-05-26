@@ -25,3 +25,5 @@ cp tmuxrc/.tmux/plugins/* ~/.tmux/plugins
 ```
 tmux source ~/.tmux.conf
 ```
+
+![tmux](https://github.com/givensuman/tmuxrc/assets/16063606/a59e3b95-25cb-4ea1-9131-e0913c64c0d0)
