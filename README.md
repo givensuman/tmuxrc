@@ -29,6 +29,8 @@ mkdir -p ~/.tmux/plugins && cp tmuxrc/.tmux/plugins/* $_ -r
 #### Refresh your shell
 
 ```
+# You will need to install any plugins with <Prefix>I
+# which after sourcing below will be Ctrl+Space followed by Shift+i
 tmux source ~/.tmux.conf
 ```
 
