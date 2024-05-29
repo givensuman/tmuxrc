@@ -7,6 +7,12 @@ sudo apt update
 sudo apt install tmux
 ```
 
+#### Install TPM
+
+```shell
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
 #### Clone the repository
 
 ```shell
