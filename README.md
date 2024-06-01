@@ -22,8 +22,7 @@ git clone https://github.com/givensuman/tmuxrc
 #### And pull out what you need
 
 ```shell
-cat tmuxrc/.tmux.conf >> ~/.tmux.conf
-mkdir -p ~/.tmux/plugins && cp tmuxrc/.tmux/plugins/* $_ -r
+cp tmuxrc/.tmux.conf ~/.tmux.con
 ```
 
 #### Refresh your shell
