@@ -33,4 +33,5 @@ cp tmuxrc/.tmux.conf ~/.tmux.con
 tmux source ~/.tmux.conf
 ```
 
-![tmux](https://github.com/givensuman/tmuxrc/assets/16063606/a59e3b95-25cb-4ea1-9131-e0913c64c0d0)
+![Screenshot from 2024-06-04 08-09-13](https://github.com/givensuman/tmuxrc/assets/16063606/c1e5ec9e-d6ce-4dbd-b401-411a4741fc39)
+
