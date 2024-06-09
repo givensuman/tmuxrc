@@ -22,14 +22,14 @@ git clone https://github.com/givensuman/tmuxrc
 #### And pull out what you need
 
 ```shell
-cp tmuxrc/.tmux.conf ~/.tmux.con
+cp tmuxrc/.tmux.conf ~/.tmux.conf
 ```
 
 #### Refresh your shell
 
 ```
 # You will need to install any plugins with <Prefix>I
-# which after sourcing below will be Ctrl+Space followed by Shift+i
+# which after sourcing below will be Ctrl+a followed by Shift+i
 tmux source ~/.tmux.conf
 ```
 
